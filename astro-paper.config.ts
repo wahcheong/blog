@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://jupitor.site/",
     title: "GoForward",
-    description: "Huachang's personal blog",
+    description: "huachang's personal blog",
     author: "huachang",
     profile: "",
     ogImage: "default-og.jpg",
